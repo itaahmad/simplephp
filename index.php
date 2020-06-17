@@ -1,4 +1,4 @@
 <?php
-echo "This is a simple php app"
-  <h2> "Test to edit" <h2>
+echo "This is a not very simple php app"
+
 ?>
